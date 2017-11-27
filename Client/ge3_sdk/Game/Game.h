@@ -1,0 +1,22 @@
+#ifndef _GAME_H
+#define _GAME_H
+#include "gCCombatStyle.h"
+#include "gCEntity.h"
+#include "gCGUIManager.h"
+#include "gCSession.h"
+#include "gCScreenOutputCtrl.h"
+#include "gCPlayerMemory_PS.h"
+#include "gCCharacterControl_PS.h"
+#include "gCCharacterMovement_PS.h"
+#include "gCScriptRoutine_PS.h"
+#include "gCAttribute.h"
+#include "gCFocus_PS.h"
+#include "gCFlock_PS.h"
+#include "gCNPC_PS.h"
+#include "gCWorld.h"
+#include "gCGUIEntityRenderer.h"
+#include "gCInventorySlot.h"
+#include "gCInventoryStack.h"
+#include "gCInventory_PS.h"
+#include "gCItem_PS.h"
+#endif

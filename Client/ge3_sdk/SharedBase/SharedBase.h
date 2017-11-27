@@ -1,0 +1,21 @@
+#ifndef _SHAREDBASE_H
+#define _SHAREDBASE_H
+#include "bCVariant.h"
+#include "bCString.h"
+#include "bCUnicodeString.h"
+#include "bCIStream.h"
+#include "bCOStream.h"
+#include "bCIOStream.h"
+#include "bCVector.h"
+#include "bCGuid.h"
+#include "bCObjectBase.h"
+#include "bCPoint.h"
+#include "bCPropertyID.h"
+#include "bCByteAlphaColor.h"
+#include "bCQuaternion.h"
+#include "bCMatrix.h"
+#include "bCAxisAngle.h"
+#include "bArrayBase.h"
+#include "bTObjectArray.h"
+#include "bCRect.h"
+#endif
